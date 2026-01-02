@@ -125,25 +125,14 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'multishop',
         'USER': 'postgres',
-        'PASSWORD': '2133',
+        'PASSWORD': '',
         'HOST': 'localhost',
         'PORT': '5432'
     }
  }
 
 
-# Database
-# https://docs.djangoproject.com/en/5.0.6/ref/settings/#databases
-# DATABASES = {
-#    'default': {
-#        'ENGINE': 'django.db.backends.postgresql',
-#        'NAME': 'proshop',
-#        'USER': 'postgres',
-#        'PASSWORD': os.environ.get('DB_PASS'),
-#        'HOST': os.environ.get('HOST'),
-#        'PORT': '5432'
-#    }
-# }
+
 
 
 # Password validation
