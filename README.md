@@ -26,7 +26,7 @@ This project provides features like product listing, cart management, checkout w
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Asmamaw-kas/Multi-Vendor-ecommerce-marketplace.git
-cd MUlti_Vendor_ecommerce_django
+cd Multi-Vendor-ecommerce-marketplace
 ---
 ### 2. Backend (Django)
 cd MultiVendor
