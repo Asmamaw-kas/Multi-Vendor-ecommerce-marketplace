@@ -25,13 +25,13 @@ This project provides features like product listing, cart management, checkout w
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Asmamaw-kas/MUlti_Vendor_ecommerce_django.git
+git clone https://github.com/Asmamaw-kas/Multi-Vendor-ecommerce-marketplace.git
 cd MUlti_Vendor_ecommerce_django
 ---
 ### 2. Backend (Django)
 cd MultiVendor
 python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
+venv\Scripts\activate
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
